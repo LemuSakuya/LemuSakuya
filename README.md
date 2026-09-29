@@ -86,15 +86,6 @@ Still learning, still shipping small things. Rhythm games on the side; cats when
 
 ---
 
-## Highlights
-
-| | |
-|---|---|
-| **GPA** | 3.81 / 5.00 |
-| **Now** | Student innovation program · DeepBindDTA Preview (2025.04 – ) |
-| **2026** | MCM/ICM Honorable Mention |
-| **High school** | Shunde No.1 Middle School · gaokao 595.5 · municipal model student · provincial 2nd prize in math & physics |
-
 ### Public notes & labs
 
 | Project | What lives there |
