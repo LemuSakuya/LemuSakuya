@@ -152,7 +152,7 @@ Taken from the [skills page](https://lemusakuya.com/skills/) — only things lis
 <table width="100%">
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=LemuSakuya&show_icons=true&theme=transparent&hide_border=true&title_color=E879A9&icon_color=F9A8D4&text_color=6B4A55&ring=F472B6" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=LemuSakuya&show_icons=true&theme=transparent&hide_border=true&title_color=E879A9&icon_color=F9A8D4&text_color=6B4A55&ring=F472B6" />
 </td>
 <td width="50%">
 <img width="100%" src="https://streak-stats.demolab.com?user=LemuSakuya&theme=transparent&hide_border=true&ring=F472B6&fire=FB7185&currStreakLabel=E879A9&sideLabels=9D7180&dates=C4A4B0&currStreakNum=F472B6&sideNums=E879A9" />
@@ -160,15 +160,7 @@ Taken from the [skills page](https://lemusakuya.com/skills/) — only things lis
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemuSakuya&layout=compact&theme=transparent&hide_border=true&title_color=E879A9&text_color=6B4A55" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LemuSakuya&bg_color=00000000&color=e879a9&line=f472b6&point=fb7185&area=true&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/LemuSakuya/LemuSakuya/output/github-contribution-grid-snake.svg)
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LemuSakuya&layout=compact&theme=transparent&hide_border=true&title_color=E879A9&text_color=6B4A55" />
 
 </div>
 
