@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=F9A8D4&height=210&section=header&text=Hi%20I'm%20Lemu%20Sakuya&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=%E3%83%AC%E3%83%A0%E3%83%BB%E5%92%B2%E3%81%8F%E5%A4%9C%20%C2%B7%20%E5%A5%BD%E3%81%8D%E3%82%92%E3%80%81%E3%81%A8%E3%81%98%E3%81%93%E3%82%81%E3%81%AA%E3%81%84%E3%81%A7%E3%80%82&descSize=18&descAlignY=58&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=F9A8D4&height=210&section=header&text=Hi%2C%20%E6%88%91%E6%98%AF%20Lemu%20Sakuya&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=%E3%83%AC%E3%83%A0%E3%83%BB%E5%92%B2%E3%81%8F%E5%A4%9C%20%C2%B7%20%E5%A5%BD%E3%81%8D%E3%82%92%E3%80%81%E3%81%A8%E3%81%98%E3%81%93%E3%82%81%E3%81%AA%E3%81%84%E3%81%A7%E3%80%82&descSize=18&descAlignY=58&animation=twinkling)
 
-English · [简体中文](./README.zh-CN.md)
+[English](./README.md) · 简体中文
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=E879A9&center=true&vCenter=true&width=780&lines=Someone+who+loves+programming+and+cats;CS+%40+Hunan+Normal+University;Algorithms+%C2%B7+Notes+in+public+%C2%B7+Small+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=E879A9&center=true&vCenter=true&width=780&lines=Someone+who+loves+programming+and+cats;%E6%B9%96%E5%8D%97%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%20%C2%B7%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF;%E7%AE%97%E6%B3%95+%C2%B7+%E6%8A%8A%E7%AC%94%E8%AE%B0%E5%86%99%E5%9C%A8%E5%85%89%E9%87%8C)](https://git.io/typing-svg)
 
 <h2><a href="https://lemusakuya.com">lemusakuya.com ↗</a></h2>
 
@@ -21,7 +21,7 @@ English · [简体中文](./README.zh-CN.md)
 
 ---
 
-## Featured Projects
+## 精选项目
 
 <table>
 <tr>
@@ -29,7 +29,7 @@ English · [简体中文](./README.zh-CN.md)
 
 ### ⭐ [DeepBindDTA Preview](https://lemusakuya.com/projects/)
 
-Ongoing project on the [projects page](https://lemusakuya.com/projects/). A web preview for drug-target affinity inference: try models, then look at the numbers instead of only reading the paper.
+写在站点 [專案展示](https://lemusakuya.com/projects/) 里的在研项目。药物-靶点亲和力推理的 Web 预览台：跑模型、看结果、把实验摊开。
 
 `Python` `PyTorch` `FastAPI` `React`
 
@@ -40,7 +40,7 @@ Ongoing project on the [projects page](https://lemusakuya.com/projects/). A web 
 
 [![Stars](https://img.shields.io/github/stars/LemuSakuya/LemuSakuyaBlog?style=social)](https://github.com/LemuSakuya/LemuSakuyaBlog)
 
-Personal site at [lemusakuya.com](https://lemusakuya.com). Mizuki + Astro, used as a public notebook for algorithms, DIP, Android, security, and whatever else is on the desk.
+个人站 [lemusakuya.com](https://lemusakuya.com)。Mizuki + Astro，算法、数字图像处理、安卓、安全笔记都堆在这里。
 
 `Astro` `TypeScript` `Tailwind` `Notes`
 
@@ -53,7 +53,7 @@ Personal site at [lemusakuya.com](https://lemusakuya.com). Mizuki + Astro, used 
 
 [![Stars](https://img.shields.io/github/stars/LemuSakuya/DrugReasoner?style=social)](https://github.com/LemuSakuya/DrugReasoner)
 
-College innovation-training prototype: local drug database + symbolic relation graph + LLM agent, for DTI / DDI / DTA queries and readable reports.
+大创原型：本地药物库 + 符号关系图 + LLM Agent，做 DTI / DDI / DTA 查询和可阅读的报告。
 
 `Python` `LLM Agent` `MySQL` `DTA`
 
@@ -64,7 +64,7 @@ College innovation-training prototype: local drug database + symbolic relation g
 
 [![Stars](https://img.shields.io/github/stars/LemuSakuya/Coding?style=social)](https://github.com/LemuSakuya/Coding)
 
-Course archive for HNNU computer science / AI classes — notes, labs, exam prep, and the long road from "hello world" to image processing.
+湖南师大计科 / 人工智能课程档案：笔记、实验、考试资料，以及从 Hello World 走到图像处理的那条路。
 
 `Python` `C++` `Course Notes` `HNNU`
 
@@ -74,45 +74,45 @@ Course archive for HNNU computer science / AI classes — notes, labs, exam prep
 
 ---
 
-## About Me
+## 关于我
 
-にゃあ～ here is **Lemu Sakuya** / レム・咲く夜. Call me Sakuya.
+にゃあ～ 这里是 **Lemu Sakuya** / レム・咲く夜，叫我 Sakuya 就好。
 
-Undergraduate in **Computer Science and Technology** at **Hunan Normal University**, with machine learning and artificial intelligence as the main thread.
+**湖南师范大学 · 计算机科学与技术** 在读，主线是机器学习与人工智能。
 
-The site motto is 「好きを、とじこめないで。」— don't lock up the things you like. That is also how I treat code: algorithms on OJ, lecture notes on the blog, and a drug-affinity preview that I can actually click.
+站点一句是「好きを、とじこめないで。」——不要把喜欢的东西锁起来。算法题、课程笔记、能点开的药物亲和力预览，都按这句话放着。
 
-Still learning, still shipping small things. Rhythm games on the side; cats whenever possible.
+还在学，也还在把小东西做出来。音游重度依赖；有猫更好。
 
 ---
 
-## Highlights
+## 履历摘录
 
 | | |
 |---|---|
 | **GPA** | 3.81 / 5.00 |
-| **Now** | Student innovation program · DeepBindDTA Preview (2025.04 – ) |
+| **现在** | 大学生创新训练 · DeepBindDTA Preview（2025.04 – ） |
 | **2026** | MCM/ICM Honorable Mention |
-| **High school** | Shunde No.1 Middle School · gaokao 595.5 · municipal model student · provincial 2nd prize in math & physics |
+| **高中** | 顺德一中 · 高考 595.5 · 市级三好学生 · 数学 / 物理省二 |
 
-### Public notes & labs
+### 公开笔记与实验
 
-| Project | What lives there |
+| 项目 | 里面有什么 |
 |---|---|
-| **[lemusakuya.com](https://lemusakuya.com)** | Algorithm, DIP, Android, cybersecurity, NLP, neural nets |
-| **[DIP-Labs](https://github.com/LemuSakuya/DIP-Labs)** | Digital image processing lab reports |
-| **[NLP-Labs](https://github.com/LemuSakuya/NLP-Labs)** | NLP lab reports |
-| **[EXDTI](https://github.com/LemuSakuya/EXDTI)** | Explainable DTI / MolT5 experiments |
+| **[lemusakuya.com](https://lemusakuya.com)** | Algorithm、DIP、Android、网络安全、NLP、神经网络 |
+| **[DIP-Labs](https://github.com/LemuSakuya/DIP-Labs)** | 数字图像处理实验报告 |
+| **[NLP-Labs](https://github.com/LemuSakuya/NLP-Labs)** | NLP 实验报告 |
+| **[EXDTI](https://github.com/LemuSakuya/EXDTI)** | 可解释 DTI / MolT5 实验 |
 
-### OJ desks
+### 刷题桌
 
-[Codeforces](https://codeforces.com/profile/LemuSakuya) · [Luogu](https://www.luogu.com.cn/user/1518618) · [LibreOJ](https://loj.ac/u/LemuSakuya) · [SPOJ](https://www.spoj.com/myaccount/)
+[Codeforces](https://codeforces.com/profile/LemuSakuya) · [洛谷](https://www.luogu.com.cn/user/1518618) · [LibreOJ](https://loj.ac/u/LemuSakuya) · [SPOJ](https://www.spoj.com/myaccount/)
 
 ---
 
-## Technologies & Tools
+## 技术栈
 
-Taken from the [skills page](https://lemusakuya.com/skills/) — only things listed at mid-level or above, plus the stack used in featured projects.
+技能列表对齐 [技能展示](https://lemusakuya.com/skills/)：中级及以上，外加精选项目实际用到的栈。
 
 <div align="center">
 
@@ -145,7 +145,7 @@ Taken from the [skills page](https://lemusakuya.com/skills/) — only things lis
 
 ---
 
-## GitHub Stats
+## GitHub 统计
 
 <div align="center">
 
@@ -176,7 +176,7 @@ Taken from the [skills page](https://lemusakuya.com/skills/) — only things lis
 
 <div align="center">
 
-### If you also keep notes in public, poke at models, or just like cats — come say hi
+### 如果你也把笔记写在光里、会去点开模型，或者只是喜欢猫 —— 来打个招呼
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LemuSakuya)
 [![Website](https://img.shields.io/badge/-Website-FB7299?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lemusakuya.com)
